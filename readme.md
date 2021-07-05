@@ -1,0 +1,1 @@
+Exercicios realizados no Curso de Python3 do Curso em Video
